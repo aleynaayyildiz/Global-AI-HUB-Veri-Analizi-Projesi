@@ -1,6 +1,8 @@
 # Global AI HUB Veri Analizi Projesi
  Online Retail Dataset
  ![image](https://github.com/user-attachments/assets/cf5e1e0c-12b4-4750-b5da-da3b69bc09b0)
+# Kaggle Linki:
+https://www.kaggle.com/code/aleynaayyldz/online-retail-project
 
 VERİ SETİ HAKKINDA
 
